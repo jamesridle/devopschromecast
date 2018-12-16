@@ -1,2 +1,2 @@
 # devopschromecastdotcom.net
-A static website that cycles through excellent memes and shitty campfire gifs on our Chromecast in devops.
+A static website that makes everyone happy during the holidays.
